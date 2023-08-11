@@ -1,0 +1,32 @@
+.content h1 {
+  font-size: 24px;
+  transition: font-size 0.3s;
+
+}
+
+.content h1:hover {
+  font-size: 36px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  padding: 10px 20px;
+  color: #ffffff;
+  font-size: 25px; /* Tamaño de fuente más grande para el navbar */
+}
+
+.user-info {
+  font-size: 18px; /* Tamaño de fuente más grande para la información del usuario */
+}
+
+.container {
+    background-color: #37515F;
+}
+.content{
+    background-color: white;
+border-radius: 16px;
+padding: 20px;
+}
